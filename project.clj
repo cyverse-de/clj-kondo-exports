@@ -1,4 +1,4 @@
-(defproject org.cyverse/clj-kondo-exports "0.1.1-SNAPSHOT"
+(defproject org.cyverse/clj-kondo-exports "0.1.1"
   :description "clj-kondo configuration and macro expansons for third-party libraries"
   :license {:name "BSD"
             :url "https://cyverse.org/license"}
